@@ -1,0 +1,12 @@
+[
+	{
+		"urls":["url"],		
+		"name":"name",
+		"authors":["author1", "author2"],
+		"keywords":"",
+		"tags":[""],
+		"key_values":{"la":"la"},
+		"description":""
+	}
+]
+
